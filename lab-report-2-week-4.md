@@ -21,6 +21,6 @@
 * ![Image](lab3-picture5.png)
 * [Test file](https://github.com/LebinHuang/markdown-parser/blob/New/test.md)
 
-* ![Image](lab1-picture6.png)
+* ![Image](lab3-picture6.png)
 
 *  I spart two link very far in this file. And it cause me cannot call the ```add``` method to many times. Because it satisfy all the conditions, if the I call the ```add``` method too many times, it will duplicate the list more than one time.
