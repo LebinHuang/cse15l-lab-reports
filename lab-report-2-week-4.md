@@ -23,4 +23,4 @@
 
 * ![Image](lab3-picture6.png)
 
-*  I spart two link very far in this file. And it cause me cannot call the ```add``` method to many times. Because it satisfy all the conditions, if the I call the ```add``` method too many times, it will duplicate the list more than one time.
+*  I spart two link very far in this file. And it cause me cannot call the ```add``` method to many times. Because it satisfy all the conditions, if I call the ```add``` method too many times, it will duplicate the list more than one time.
