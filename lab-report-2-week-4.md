@@ -9,4 +9,9 @@
 
 ## 2
 
+* ![Image](lab3-picture3.png)
+* [Test file](https://github.com/LebinHuang/markdown-parser/blob/New/test1.md)
 
+* ![Image](lab3-picture4.png)
+
+* Because I changed all bracket to paranthesis, it will cause the openbracket become negative 1. And the ```indexof``` method didn't accept negative number, it will go into dead loop and cause the output become out fo memory.
