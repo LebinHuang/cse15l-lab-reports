@@ -10,20 +10,15 @@
 * Snippet1:
 ![Image](lab7-picture1.png)
 
-Expected output: 
-![Image](lab7-picture9.png)
 
 * Snippet2:
 ![Image](lab7-picture2.png)
 
-Expected output: 
-![Image](lab7-picture10.png)
 
 * Snippet3:
 ![Image](lab7-picture3.png)
 
-Expected output: 
-![Image](lab7-picture11.png)
+
 
 
 ## Showing the code in MarkdownParseTest.java for how you turned it into a test
