@@ -44,7 +44,7 @@
 
 * Snippet 3 test 
 
-![Image](lab8-picture8.png)
+![Image](lab7-picture8.png)
 
 ## Answer the questions
 
