@@ -18,15 +18,18 @@
 
 For the first link, my implemention is correct
 
-* Actual output:
+## Actual output:
 
 ![Image](lab9-picture4.png)
 
-* Expected output: 
+## Expected output: 
 
 ![Image](lab9-picture3.png)
 
+## Describe the bug
+For the given code, it only check the closeparen position. Therefore, it didn't add anything to the list.
 
+![Image](lab9-picture6.png)
 
 # For second test:
 
@@ -41,3 +44,8 @@ For the second link, my implementation is correct.
 * Expected output:
 
 ![Image](lab9-picture5.png)
+
+## Describe the bug
+For the given code, it only check the closeparen position. Therefore, it only add uri to the list.
+
+![Image](lab9-picture6.png)
