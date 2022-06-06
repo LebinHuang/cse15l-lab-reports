@@ -8,6 +8,36 @@
 
 * Provide a link to the test-file with different-results
 
-[Link 1](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/523.html.test)
+[Link 1](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/537.html.test)
 
 [Link 2](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/525.html.test)
+
+# For one test:
+
+## Describe which implementation is correct, or neither if both give the wrong output
+
+For the first link, my implemention is correct
+
+* Actual output:
+
+![Image](lab9-picture4.png)
+
+* Expected output: 
+
+![Image](lab9-picture3.png)
+
+
+
+# For second test:
+
+## Describe which implementation is correct, or neither if both give the wrong output
+
+For the second link, my implementation is correct.
+
+* Actual output:
+
+![Image](lab9-picture2.png)
+
+* Expected output:
+
+![Image](lab9-picture5.png)
